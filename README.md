@@ -1,3 +1,5 @@
+## Developing a Holistic Ranking System using Global Indexes
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -17,6 +19,10 @@ Data is collected from:
 * United Nations Development Programme (UNDP). (2021). Human Development Indices and Indicators: 2021 Statistical Update.
 * Social Progress Imperative. (2021). 2021 Social Progress Index.
 * World Intellectual Property Organization .(2021) Global Innovation Index.
+
+## Proposed Methodolgy
+
+![Proposed Approach Diagram](./Results/Proposed_Methodology.png)
 
 
 
